@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Onisojime
-- 👀 I’m interested in data analytics and business analytics 
-- 🌱 I’m currently learning R, SQL and Python with datacamp
 - 📫 Send me a mail : onisojimeizu@gmail.com
 
 <!---
